@@ -1,4 +1,4 @@
 # Processing_Programs
 programs written in javabased environment called [processing](https://processing.org/)
-some are original and some are made by twiking some parts in available codes.
+some are made from scratch and some are by tweaking parts of available codes.
 >any contribution will be appreciated!
